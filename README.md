@@ -1,1 +1,3 @@
-# FormsByReact
+# RoyalBoutique
+It is a landing page made up with HTML,VANILLA CSS only. Here the user can view the items from our shop and have a look on the current collections of ROYALBOUTIQUE....
+Kindly access the website from here--->https://yourroyalboutique.netlify.app/
